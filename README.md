@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -71,9 +72,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Union Find
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Math
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
