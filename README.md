@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Prefix Sum
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
