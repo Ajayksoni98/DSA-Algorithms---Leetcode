@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2007-maximum-cost-of-trip-with-k-highways](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+| [2007-maximum-cost-of-trip-with-k-highways](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Prefix Sum
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2007-maximum-cost-of-trip-with-k-highways](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Union Find
 |  |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+## Bitmask
+|  |
+| ------- |
+| [2007-maximum-cost-of-trip-with-k-highways](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 <!---LeetCode Topics End-->
