@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
