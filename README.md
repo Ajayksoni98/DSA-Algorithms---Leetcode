@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2792-neighboring-bitwise-xor) |
