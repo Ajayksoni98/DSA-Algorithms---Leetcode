@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0050-powx-n) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2050-count-good-numbers) |
@@ -140,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
