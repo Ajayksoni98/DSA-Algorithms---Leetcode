@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
@@ -145,4 +147,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2050-count-good-numbers) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
