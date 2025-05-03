@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1656-count-good-triplets](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 <!---LeetCode Topics End-->
