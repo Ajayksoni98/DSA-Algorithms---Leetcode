@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Ordered Set
 |  |
 | ------- |
