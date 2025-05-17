@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Bitmask
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
