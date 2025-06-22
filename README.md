@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Graph
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Bitmask
 |  |
 | ------- |
@@ -174,8 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 <!---LeetCode Topics End-->
