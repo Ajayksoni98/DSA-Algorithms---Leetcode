@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-watering-plants](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1310-watering-plants) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Trie
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2050-count-good-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2998-count-symmetric-integers](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Backtracking
 |  |
