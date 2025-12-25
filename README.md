@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Bitmask
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
