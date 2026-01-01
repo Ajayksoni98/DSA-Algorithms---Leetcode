@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1448-maximum-69-number](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
