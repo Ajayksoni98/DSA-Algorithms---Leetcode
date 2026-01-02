@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1310-watering-plants](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1310-watering-plants) |
+| [1470-shuffle-the-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1656-count-good-triplets) |
