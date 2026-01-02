@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1656-count-good-triplets) |
+| [1929-concatenation-of-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1929-concatenation-of-array) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-watering-plants](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1310-watering-plants) |
+| [1929-concatenation-of-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1929-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2402-meeting-rooms-iii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
