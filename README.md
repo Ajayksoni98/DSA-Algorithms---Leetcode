@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1310-watering-plants](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1310-watering-plants) |
+| [1390-four-divisors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1390-four-divisors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2050-count-good-numbers) |
