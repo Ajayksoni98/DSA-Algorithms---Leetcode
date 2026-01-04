@@ -45,9 +45,9 @@ public:
         for(int i = 0;i<n;i++)
         {
             int x = is_cube(nums[i],primes);
-            cout<<nums[i]<<"  is_cube"<<x<<endl;
+            //cout<<nums[i]<<"  is_cube"<<x<<endl;
             int y = is_prod(nums[i]);
-            cout<<nums[i]<<"  is_prod"<<y<<endl;
+            //cout<<nums[i]<<"  is_prod"<<y<<endl;
             if( x != -1)
             {
                 ans+=x;
