@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -162,19 +163,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Sorting
 |  |
