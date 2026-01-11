@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1656-count-good-triplets) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1929-concatenation-of-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1929-concatenation-of-array) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2402-meeting-rooms-iii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
