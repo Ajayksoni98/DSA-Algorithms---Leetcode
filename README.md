@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
 | [0253-meeting-rooms-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -245,14 +247,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Search
 |  |
 | ------- |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
