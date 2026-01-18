@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1656-count-good-triplets) |
+| [1895-largest-magic-square](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1895-largest-magic-square) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1929-concatenation-of-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1929-concatenation-of-array) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1895-largest-magic-square](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1895-largest-magic-square) |
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Heap (Priority Queue)
@@ -266,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
