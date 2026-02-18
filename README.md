@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
