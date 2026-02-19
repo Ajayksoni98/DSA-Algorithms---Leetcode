@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0696-count-binary-substrings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0696-count-binary-substrings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0696-count-binary-substrings) |
 ## Counting
 |  |
 | ------- |
