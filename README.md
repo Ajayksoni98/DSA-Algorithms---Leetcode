@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0146-lru-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -282,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
 | [1895-largest-magic-square](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1895-largest-magic-square) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
