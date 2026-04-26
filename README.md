@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1929-concatenation-of-array) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2055-plates-between-candles](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2055-plates-between-candles) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2055-plates-between-candles](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2055-plates-between-candles) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1895-largest-magic-square](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1895-largest-magic-square) |
+| [2055-plates-between-candles](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2055-plates-between-candles) |
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
+| [2055-plates-between-candles](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2055-plates-between-candles) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Matrix
 |  |
