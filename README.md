@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1310-watering-plants](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1310-watering-plants) |
 | [1390-four-divisors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1470-shuffle-the-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -193,11 +194,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1895-largest-magic-square) |
 ## Design
 |  |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
