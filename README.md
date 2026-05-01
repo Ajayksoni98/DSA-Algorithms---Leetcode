@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
 | [0253-meeting-rooms-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0085-maximal-rectangle) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0396-rotate-function) |
 | [1390-four-divisors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
