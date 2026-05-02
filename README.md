@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1929-concatenation-of-array) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2055-plates-between-candles](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2055-plates-between-candles) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2402-meeting-rooms-iii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Ordered Set
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1966-binary-searchable-numbers-in-an-unsorted-array](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1966-binary-searchable-numbers-in-an-unsorted-array) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2055-plates-between-candles](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2055-plates-between-candles) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Matrix
