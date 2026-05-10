@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2465-shifting-letters-ii](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2868-continuous-subarrays) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2007-maximum-cost-of-trip-with-k-highways](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2007-maximum-cost-of-trip-with-k-highways) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ajayksoni98/DSA-Algorithms---Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Prefix Sum
 |  |
 | ------- |
